@@ -6,7 +6,7 @@ Movies playing now endpoint retrieved from [TMDB](https://www.themoviedb.org/) a
 
 #### Published App
 
-- [See here](https://carlosmertens.github.io/movie-router)
+- [See here](https://carlosmertens.github.io/movie-router/)
 
 #### Tutorial Instructor
 
