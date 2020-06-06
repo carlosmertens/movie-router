@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/movie-router/static/css/main.dbe8967c.chunk.css",
+    "main.js": "/movie-router/static/js/main.c2056606.chunk.js",
+    "main.js.map": "/movie-router/static/js/main.c2056606.chunk.js.map",
+    "runtime-main.js": "/movie-router/static/js/runtime-main.ecd79271.js",
+    "runtime-main.js.map": "/movie-router/static/js/runtime-main.ecd79271.js.map",
+    "static/js/2.3e09be0d.chunk.js": "/movie-router/static/js/2.3e09be0d.chunk.js",
+    "static/js/2.3e09be0d.chunk.js.map": "/movie-router/static/js/2.3e09be0d.chunk.js.map",
+    "index.html": "/movie-router/index.html",
+    "precache-manifest.90e94199ae47b5348afba9051d21f434.js": "/movie-router/precache-manifest.90e94199ae47b5348afba9051d21f434.js",
+    "service-worker.js": "/movie-router/service-worker.js",
+    "static/css/main.dbe8967c.chunk.css.map": "/movie-router/static/css/main.dbe8967c.chunk.css.map",
+    "static/js/2.3e09be0d.chunk.js.LICENSE.txt": "/movie-router/static/js/2.3e09be0d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecd79271.js",
+    "static/js/2.3e09be0d.chunk.js",
+    "static/css/main.dbe8967c.chunk.css",
+    "static/js/main.c2056606.chunk.js"
+  ]
+}
